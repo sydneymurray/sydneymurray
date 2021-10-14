@@ -44,6 +44,6 @@
 </span>
 
 </br></br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sydneymurray&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true)](https://github.com/sydneymurray)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sydneymurray&hide=stars,contribs&count_private=true&show_icons=true&theme=default&hide_border=ture&hide_title=false)](https://github.com/sydneymurray)
 
 
