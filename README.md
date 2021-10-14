@@ -6,7 +6,7 @@
 - 🎓 Experience: Full stack developer academy course with [Boolean UK](https://boolean.co.uk/).
 - 💻 700+ hours of coding  
 - 👩🏻‍💻 7 hours coding/day
-- 👩🏻 Looking for Full Stack React/Node.js roles as a Junior Developer.
+- 👩🏻 Looking for Full Stack React/Node.js roles as a Junior Web Developer.
 - 🗺 I love music mixing, football, gaming, SCI-FI & travelling.
 
 
