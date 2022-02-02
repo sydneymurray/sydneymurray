@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/sydney-murray-b2924a24/">
      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></img>
-<a/>
+</a>
 
 
 ## My stack
