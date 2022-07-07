@@ -3,7 +3,7 @@
 <!--
 **sydneymurray/sydneymurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="./Hero.png" alt="screenshot of my game" width="600px" height = "auto">
+<p align="center"><img src="./Hero.png" alt="screenshot of my game" width="auto" height = "auto"></p>
 
 After spending many years as a Network Engineer and an IT Technician, I was made redundant due to the pandemic, due to my passion for coding I decided to embark on a journey and try my skills at Software Development, first with Boolean for JavaScript, Node.JS then with Nology for JAVA.
 
