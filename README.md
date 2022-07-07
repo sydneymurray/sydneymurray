@@ -1,4 +1,3 @@
-### Hi I'm Sydney
 
 <!--
 **sydneymurray/sydneymurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,13 +8,14 @@ After spending many years as a Network Engineer and an IT Technician, I was made
 
 Now. I can conceive, design and build websites from conception through to the design stage, with user stories, wire-frame diagrams, I can determine & design database models utilizing SQL also design and build a back end server application right through to the front end client application.
 
+<p align="center">
 - 🎓 Experience: Full stack developer academy course with [Boolean UK](https://boolean.co.uk/).
 - 🎓 Experience: Full stack Nology consultant developer [_nology](https://nology.io/).  
 - 💻 1000+ hours of coding  
 - 👩🏻‍💻 7 hours coding/day
 - 👩🏻 Looking for Full Stack React, Node.JS or JAVA roles as a Junior Web Developer.
 - 🗺 I love music mixing, football, gaming, SCI-FI & travelling.
-
+</p>
 
 ## Contact Me
 
@@ -25,7 +25,7 @@ Now. I can conceive, design and build websites from conception through to the de
 
 
 ## My stack
-
+<p align="center">
 <span>
      <img width="30" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png"/><span> HTML |</span>
 </span>
@@ -57,6 +57,7 @@ Now. I can conceive, design and build websites from conception through to the de
 <span>
      <img width="30" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png"/><span > JAVA</span> 
 </span>
+</p>
 
 </br></br>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sydneymurray&hide=stars,contribs&count_private=true&show_icons=true&theme=default&hide_border=ture&hide_title=false)](https://github.com/sydneymurray)
