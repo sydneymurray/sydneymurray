@@ -8,13 +8,13 @@ After spending many years as a Network Engineer and an IT Technician, I was made
 
 Now. I can conceive, design and build websites from conception through to the design stage, with user stories, wire-frame diagrams, I can determine & design database models utilizing SQL also design and build a back end server application right through to the front end client application.
 
-<p align="center"> 
+
 - 🎓 Experience: Full stack Nology consultant developer [_nology](https://nology.io/).  <br>
 - 💻 1000+ hours of coding.  <br>
 - 👩🏻‍💻 7 hours coding/day. <br>
 - 👩🏻 Looking for Full Stack React, Node.JS or JAVA roles as a Junior Web Developer. <br>
 - 🗺 I love music mixing, football, gaming, SCI-FI & travelling. <br>
-</p>
+
 
 ## Contact Me
 
@@ -60,6 +60,6 @@ Now. I can conceive, design and build websites from conception through to the de
 
 </br></br>
 <p align="center">
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sydneymurray&hide=stars,contribs&count_private=true&show_icons=true&theme=default&hide_border=ture&hide_title=false)](https://github.com/sydneymurray)
+(https://github-readme-stats.vercel.app/api?username=sydneymurray&hide=stars,contribs&count_private=true&show_icons=true&theme=default&hide_border=ture&hide_title=false)](https://github.com/sydneymurray)
 </p>
 
