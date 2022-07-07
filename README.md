@@ -9,11 +9,11 @@ After spending many years as a Network Engineer and an IT Technician, I was made
 Now. I can conceive, design and build websites from conception through to the design stage, with user stories, wire-frame diagrams, I can determine & design database models utilizing SQL also design and build a back end server application right through to the front end client application.
 
 <p align="center"> 
-- 🎓 Experience: Full stack Nology consultant developer [_nology](https://nology.io/).  \
-- 💻 1000+ hours of coding.  \
-- 👩🏻‍💻 7 hours coding/day. \
-- 👩🏻 Looking for Full Stack React, Node.JS or JAVA roles as a Junior Web Developer. \
-- 🗺 I love music mixing, football, gaming, SCI-FI & travelling. \
+- 🎓 Experience: Full stack Nology consultant developer [_nology](https://nology.io/).  <br>
+- 💻 1000+ hours of coding.  <br>
+- 👩🏻‍💻 7 hours coding/day. <br>
+- 👩🏻 Looking for Full Stack React, Node.JS or JAVA roles as a Junior Web Developer. <br>
+- 🗺 I love music mixing, football, gaming, SCI-FI & travelling. <br>
 </p>
 
 ## Contact Me
